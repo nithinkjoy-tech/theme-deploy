@@ -1,4 +1,4 @@
-if [ $? -eq 0 ]; then
+if [ $?$? -eq 0 ]; then
 
 # Define the notification title
 title="Theme Deployed Successfully"
